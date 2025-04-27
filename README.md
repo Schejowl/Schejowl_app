@@ -18,7 +18,7 @@ It's a smarter, modern clone of When2Meet.
 
 **Nick Lin** - Website UI subteam, worked on website UI 
 
-**Nursultan Asilbekov** - Optimization problem subteam, worked on converting and finalizing complete optimization model, came up with Schejowl name, created the website 
+**Nursultan Asilbekov** - Optimization problem subteam, worked on converting and finalizing complete optimization model, came up with Schejowl name, created the user-friendly website 
 
 **Varshini Loganathan** - Team Lead/Website UI subteam, led/scheduled meetings, converted Schej website UI into our website, built out showcase presentation 
 
