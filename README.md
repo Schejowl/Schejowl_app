@@ -26,4 +26,19 @@ It's a smarter, modern clone of When2Meet.
 4. Run the Django server
    ```bash
    python manage.py runserver
-5. 
+
+### Frontend (React)
+
+1. Navigate to the frontend folder
+   ```bash
+   cd frontend 
+
+2. Install React dependencies
+   ```bash
+   npm install
+4. Start the React app
+   ```bash
+   npm start
+The website will start at **http://localhost:3000/**.
+
+
