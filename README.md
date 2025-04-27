@@ -3,11 +3,13 @@
 Schejowl is a web application that helps groups easily find the best meeting times based on user preferences.
 It's a smarter, modern clone of When2Meet.
 
+
 ## Features
 - Choose availability with preference scores (0.2, 0.4, 0.6, 0.8, 1).
 - Backend optimization to find the most preferred times.
 - Easy and clean frontend UI.
 - Built with **Django** + **React**.
+
 
 ## Team Members:
 **Angel Koh** - Optimization problem subteam, worked on converting and finalizing the complete optimization model 
@@ -20,8 +22,10 @@ It's a smarter, modern clone of When2Meet.
 
 **Varshini Loganathan** - Team Lead/Website UI subteam, led/scheduled meetings, converted Schej website UI into our website, built out showcase presentation 
 
+
 ## Latex Documentation of Optimization Model: 
 https://www.overleaf.com/read/qtkndmstgmdt#c639e0
+
 
 ## How to Run Locally
 
